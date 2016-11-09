@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "951168334379",
+    "firebase_url": "https://pharmacy-cost-map.firebaseio.com",
+    "project_id": "pharmacy-cost-map",
+    "storage_bucket": "pharmacy-cost-map.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951168334379:android:d53e631a714e5a9f",
+        "android_client_info": {
+          "package_name": "sprinwood.findmedicine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951168334379-9pndvn94nifc1hh018o6k3aeqrm3rl2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm4KFke-m7wGL4UR2Rjr3DK1zDgpSGwTQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951168334379:android:de4be96b29b5f165",
+        "android_client_info": {
+          "package_name": "sprinwood.medicinedelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951168334379-9pndvn94nifc1hh018o6k3aeqrm3rl2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm4KFke-m7wGL4UR2Rjr3DK1zDgpSGwTQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

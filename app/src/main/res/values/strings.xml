@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Medicine Delivery</string>
+    <string name="hint_search">Search</string>
+    <string name="ShoppingCart">Shopping Cart</string>
+    <string name="BackToPharma"></string>
+</resources>
